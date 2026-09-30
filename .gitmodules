@@ -1,0 +1,18 @@
+[submodule "05-labs/insecurebankv2"]
+	path = 05-labs/insecurebankv2
+	url = https://github.com/dineshshetty/Android-InsecureBankv2
+[submodule "05-labs/diva"]
+	path = 05-labs/diva
+	url = https://github.com/payatu/diva-android
+[submodule "05-labs/insecureshop"]
+	path = 05-labs/insecureshop
+	url = https://github.com/hax0rgb/InsecureShop
+[submodule "05-labs/androgoat"]
+	path = 05-labs/androgoat
+	url = https://github.com/satishpatnayak/AndroGoat
+[submodule "05-labs/pivaa"]
+	path = 05-labs/pivaa
+	url = https://github.com/HTBridge/pivaa
+[submodule "05-labs/uncrackable"]
+	path = 05-labs/uncrackable
+	url = https://github.com/OWASP/mas-crackmes
