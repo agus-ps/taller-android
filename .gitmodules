@@ -16,3 +16,9 @@
 [submodule "05-labs/uncrackable"]
 	path = 05-labs/uncrackable
 	url = https://github.com/OWASP/mas-crackmes
+[submodule "03-agent-driven/mcp/mobile-mcp"]
+	path = 03-agent-driven/mcp/mobile-mcp
+	url = https://github.com/mobile-next/mobile-mcp
+[submodule "03-agent-driven/skills/apk-reverse"]
+	path = 03-agent-driven/skills/apk-reverse
+	url = https://github.com/newliver666/apk-reverse
