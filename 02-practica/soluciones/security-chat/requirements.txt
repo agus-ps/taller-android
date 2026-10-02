@@ -1,0 +1,10 @@
+# Versiones fijadas tras diagnóstico de compatibilidad Frida <-> Android 15 (API 35).
+# Ver WRITEUP_PASO_A_PASO.md -> FASE 0 para la matriz de versiones probadas y por qué
+# estas son las que funcionan en el dispositivo real del taller (Moto G15, arm64-v8a).
+#
+# NO actualizar frida/frida-tools sin volver a probar enum_classes contra un dispositivo
+# real: versiones más nuevas (17.7+) y más viejas (16.x, 17.0-17.4) tienen regresiones
+# conocidas de compatibilidad con ART en Android 15/16.
+frida==17.6.0
+frida-tools==14.5.2
+objection==1.12.5
